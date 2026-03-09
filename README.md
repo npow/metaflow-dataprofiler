@@ -1,5 +1,7 @@
 # metaflow-dataprofiler
 
+[![Docs](https://img.shields.io/badge/docs-mintlify-18a34a?style=flat-square)](https://mintlify.com/npow/metaflow-dataprofiler)
+
 Automatic DataFrame profiling card for [Metaflow](https://metaflow.org), powered by
 [ydata-profiling](https://github.com/ydataai/ydata-profiling).
 
